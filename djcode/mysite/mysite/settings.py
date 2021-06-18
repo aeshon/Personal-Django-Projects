@@ -55,7 +55,7 @@ TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
         'DIRS': [
-            "C:/Users/aeshon/djcode/mysite/templates",
+            "C:/Users/aeshon/Desktop/Personal-Django-Projects/djcode/mysite/templates",
         ],
         'APP_DIRS': True,
         'OPTIONS': {
